@@ -1,14 +1,14 @@
 {
-    "version": "1.0.4",
-    "notes": "- إصلاح مشاكل اللغة العربية في ملفات PDF والطباعة العادية\n- إضافة خيار تحديد عدد النسخ لكل طابعة\n- تحسينات عامة وإصلاحات إضافية",
-    "pub_date": "Sun Aug 30 2026 16:30:51 GMT+0100",
+    "version": "1.0.5",
+    "notes": "- تحسينات عامة وإصلاحات إضافية",
+    "pub_date": "Mon Aug 31 2026 00:44:28 GMT+0100",
     "required": true,
     "platforms": {
         "windows-x86_64": {
-            "url": "/80WLZS4e3wxjlXR/ZSL+uhMMtWNdnTC+y95pqE6fz+UvHIBICzquPLSicwpvtwvsSfto9YAXo9CVJ3z9ImergYExOV5OSengHxYfNxFjrlufGzGcLdpzYQrv3qXteY2Rf8nTMa2ZBrWxkhMsHBbtJ+TWqzUDLBUQU6YZbYLKVBQ5cK9BFp1VJdxvUyDuVjPN2sbbJvGJTf+Bw=="
+            "url": "QAIoCXe11TPBU+5H9ZhOnJ40UY9sEIrZvTus7OvJv0rboIM30Yq3Cv9u8SYvKn2rufHpwpAZcvuZG5KKWNg1rQfSN/A5nZqOwsm3X22sM/f8bz5TxKtBUMV0CtEd/SMRvg/hWdlNZcZNZc3zTbuYo3NmTDIyPWPnnBDjrbHkuCnANSO3ngyT4+F3oX0iviAL1Q=="
         },
         "universal-apk": {
-            "url": "Sql3FzaM3bacpaoYYSDcbK7spmKvzhQKhkVFTTYW66je1PHi71WTQJnvO0hEuAuJ6seZs78x0Yl2C7Sqtx1MhVIj5F14hWVe8fuLs79Ai5fe+1V4TuBzTNQNhXmmy+qd+oen2eew8fW62c5DqGW8r8XuN37FnSqCcfKEoY+aPkAavPd8DFt4QBsexqgTbF5yi8yQBEf0g9g="
+            "url": "sFusLIyT2mFw+BI8X3hgVug1WdXdr5crveX8/OdVDRXBr6CqSxmpIweFuxxofuDH9qWF9VfU5RQYSu0T1Znhouo7sYiOxGJ+joRkse83BfQswhLBp2QWNVnyeTPVy91N1E8buiAWO53X9u3vqkl41YNfws0d/7NSGRIz5NTAxS+wDZqNt26MAQdX0znomb38bg=="
         }
     }
 }
