@@ -1,14 +1,14 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "notes": "- تحسينات عامة وإصلاحات إضافية",
-    "pub_date": "Fri Sep 04 2026 03:51:47 GMT+0100",
+    "pub_date": "Sat Sep 05 2026 02:17:40 GMT+0100",
     "required": true,
     "platforms": {
         "windows-x86_64": {
-            "url": "JNu45uFmp/hx9nd+HEXmYfHL/VgN8uZkSYV7ob0pnIzZrBQlj3YHqO0HQ6IlWgjYJozQuGjSZR2rfeh+XcA8utKha/cSsy/EmuVaxRKVO96Ag3JUMFQ+1N236D0TemBZhkvFp86Xb14DIgLV+/6l2sWWhfPXDh97hWbz9frdC9LaXURIcoHkYJy6/p9shDLwZQ=="
+            "url": "vp6zpHz/DSNEyslJekNR8zK7uj3bQscqDZWrQSXZVNwzqaIMP4e0EjewsWhOuK2WauyuuZYKLsqez24l2OXARzLGf/MOimuC29fzjpJQ4YDQaKZDWspUfl3G6dvkBeb6u4QZNG25t3Q402G6eWmay3h6HuERj6c1YQGhF6eq3K0EWloSY9LMfogzrndDU0wdnA=="
         },
         "universal-apk": {
-            "url": "QREI9pCK7trdydmAgkKZY7Lv6FQxNIaWbVBS5RZVNNHimHsOzf2A5vnMREpDXCA5e22Xq75rMjx7NJ1kCHLNgDjNzR4g31bfNiyXmV5kupRanrHr+RjXofSJO8X56R+E9KbKZNiMUeI5Zf+BwdQqU9YpN92NdRGcHGTETZCj5zqBjykLMTv9QVKS8RAe1rXHgw=="
+            "url": "ovD3C1ht+q7P1EhvHrfsBu1CYLZ1PyvQR1V05wa7/xKs3B2hNq5WvEXTG27ad/n4DVPAURMBeVBHy8JApGa+LnknMVjoKMCI0kNTM37ld4RVs7dvoXEq/RMhqaVwfOhkQSVx85WHIH0xs8osIZ9SDNW7Ps8NrN0N6g4qrXlci6hMgEpy+47TNvCl0gr/OkbO8Q=="
         }
     }
 }
